@@ -33,10 +33,16 @@
 
 * git push origin master
 
-## import concept
+## important concept
 
 **working directory**
 git add -> 
 -> **staging area**
 git commit ->
 -> **repository**
+
+## login to the github
+
+* using Token
+
+* use the browser to login
