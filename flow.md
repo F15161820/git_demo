@@ -31,6 +31,8 @@
 * git branch
     get the branch you are in now
 
+* git push
+
 ## import concept
 
 **working directory**
