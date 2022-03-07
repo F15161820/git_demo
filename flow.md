@@ -31,7 +31,7 @@
 * git branch
     get the branch you are in now
 
-* git push
+* git push origin master
 
 ## import concept
 
